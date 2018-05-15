@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+.box>div{
+    margin: 30px auto;
+    width: 600px;
+    height: 104px;
+    border-radius: 5px;
+}
+.box span{
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+    float: right;
+    color: ivory;
+    display: inline-block;
+}
+.box h2{
+    font-size: 24px;
+    color: ivory;
+    font-weight: bold;
+    padding: 15px 10px 0;
+    text-align: left;
+}
+.box p{
+    text-align: left;
+    color: ivory;
+    padding: 0 10px;
+}
+.box1{
+    background-color: #4caf50;
+}
+.box2{
+    background-color: #2196f3;
+}
+.box3{
+    background-color: #f44336;
+}
+.box4{
+    background-color: #ff9800;
+}
